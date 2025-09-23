@@ -55,7 +55,7 @@ tags: [github-pages, blog, personal blog, jekyll]
 # Add your first blog
 - Create new markdown file inside `_posts` directory
     ```
-        .
+    .
     ├── _config.yml 
     ├── _data
     ├── _plugins
@@ -78,7 +78,7 @@ tags: [github-pages, blog, personal blog, jekyll]
     ```md
     ---
     categories: [Your, Categories]
-    tags: [tags, revert, to, your, blog]
+    tags: [tags, related, to, your, blog]
     ---
     ```
 - Then add rest of the content as write a markdown file
