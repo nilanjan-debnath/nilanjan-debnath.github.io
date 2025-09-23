@@ -14,11 +14,11 @@ tags: [github-pages, blog, personal blog, jekyll]
 
 ## Run it locally
 - Clone the repo 
-- Install Ruby on your macine and verify using this code 
+- Install Ruby on your machine and verify using this code 
     ```bash
     ruby --v
     ```
-- Open the repo directory in terminal and run the code to nstall the dependencies
+- Open the repo directory in terminal and run the code to install the dependencies
     ```bash
     bundle
     ```
@@ -78,7 +78,7 @@ tags: [github-pages, blog, personal blog, jekyll]
     ```md
     ---
     categories: [Your, Categories]
-    tags: [tages, revent, to, your, blog]
+    tags: [tags, revert, to, your, blog]
     ---
     ```
 - Then add rest of the content as write a markdown file
