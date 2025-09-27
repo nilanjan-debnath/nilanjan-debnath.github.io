@@ -1,13 +1,17 @@
 ---
-categories: [Blogging, Tutorial]
+categories: [Blogging]
 tags: [github-pages, blog, personal blog, jekyll]
+description: Host free personal blogging website on github with simple steps. Creating blog post with simple markdown files and display it with build-in beautiful responsive ui design.
+
+image:
+  path: /assets/img/blog-page-screenshot.png
+  alt: blog page screenshot
 ---
 # Want to setup personal blog page like this?
 ## Copy template 
-- Go to this repo 
-    ```
-    https://github.com/cotes2020/chirpy-starter
-    ```
+- Go to this repo <br>
+    🔗 [https://github.com/cotes2020/chirpy-starter](https://github.com/cotes2020/chirpy-starter)
+    
 
 - Click on `Use this template` button and then `Create a new repository`
 - Give the repo name as `<your_github_username>.github.io`
